@@ -15,5 +15,6 @@ Spis dokumentów
 * `Nienaruszalność danych w systemie EZD <nienaruszalnosc-danych.rst>`_
 * `Format danych EZD <format-danych-ezd.rst>`_
 * `Wykorzystanie formatu paczki archiwalnej jako formatu danych EZD <wykorzystanie_formatu_paczki_archiwalnej.rst>`_
+* `Zasady konstrukcji API <zasady-konstrukcji-api.rst>`_
 
 .. _OpenPGP: http://openpgp.org/
