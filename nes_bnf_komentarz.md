@@ -1,5 +1,3 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-
 <h2>
 <p align="center">Zapis propozycji nowej budowy metadanych<br/>
 Niezbędnych Elementów Struktury (NES )<br/>
@@ -14,8 +12,8 @@ w Notacji Backusa-Naura (BNF)</p>
 
 Rozporządzenie Ministra Spraw Wewnętrznych i Administracji
 [z dnia 30 października 2006 r.](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20062061517) określa niezbędne elementy struktury
-(<em>NES</em>) dokumentów elektronicznych powstałych i gromadzonych w organach państwowych, państwowych jednostkach organizacyjnych,
-w organach jednostek samorządu terytorialnego i samorządowych jednostkach organizacyjnych.<br/>
+(*NES*) dokumentów elektronicznych powstałych i gromadzonych w organach państwowych, państwowych jednostkach organizacyjnych,
+w organach jednostek samorządu terytorialnego i samorządowych jednostkach organizacyjnych.  
 Stanowi ono, że każdy dokument elektroniczny powinien być opatrzony pewnymi metadanymi takimi jak identyfikator, twórca, tytuł,
 data, format, zasady dostępu itd.
 
@@ -30,7 +28,7 @@ metadanych. Format ten zdefiniowano formalnie przy pomocy tzw. XSD, czyli pliku 
 
 Grupa robocza powołana w końcu 2016 roku przez porozumienie MC - NSA - PUW, przy współpracy osób z MKiDN, NDAP i Laboratorium EE,
 przygotowała opis zmodyfikowanej wersji NES, dla potrzeb „paczki administracyjnej” — formatu danych przewidzianego do przekazywania
-danych o sprawach z systemów EZD urzędów państwowych, do Sądów Administracyjnych.<br/>
+danych o sprawach z systemów EZD urzędów państwowych, do Sądów Administracyjnych.  
 Wydaje się, że po pewnych rozszerzeniach, ten sam format będzie mógł być wykorzystany do tworzenia „paczek migracyjnych” — do
 przekazywania danych pomiędzy systemami EZD.
 
@@ -46,6 +44,6 @@ Notacja Backusa-Naura — BNF.
 
 Dokument
 [nes_bnf.html](https://stas53.github.io/tests/nes_bnf.html)
-pokazuje zarówno strukturę danych, jak i ich zapis w tekstowym formacie XML.<br/>
+pokazuje zarówno strukturę danych, jak i ich zapis w tekstowym formacie XML.  
 Na stronie znajduje się dodatkowy przycisk, aktywuący wyświetlenie objaśnień.
 
